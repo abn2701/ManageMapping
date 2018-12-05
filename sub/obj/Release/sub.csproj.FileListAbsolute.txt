@@ -1,0 +1,14 @@
+C:\Users\e223377270\Desktop\sub\sub\bin\Release\sub.exe.config
+C:\Users\e223377270\Desktop\sub\sub\bin\Release\sub.exe
+C:\Users\e223377270\Desktop\sub\sub\bin\Release\sub.pdb
+C:\Users\e223377270\Desktop\sub\sub\bin\Release\AsyncIO.dll
+C:\Users\e223377270\Desktop\sub\sub\bin\Release\Google.Protobuf.dll
+C:\Users\e223377270\Desktop\sub\sub\bin\Release\log4net.dll
+C:\Users\e223377270\Desktop\sub\sub\bin\Release\NetMQ.dll
+C:\Users\e223377270\Desktop\sub\sub\bin\Release\ZooKeeperNet.dll
+C:\Users\e223377270\Desktop\sub\sub\bin\Release\Google.Protobuf.xml
+C:\Users\e223377270\Desktop\sub\sub\bin\Release\log4net.xml
+C:\Users\e223377270\Desktop\sub\sub\obj\Release\sub.exe
+C:\Users\e223377270\Desktop\sub\sub\obj\Release\sub.pdb
+C:\Users\e223377270\Desktop\sub\sub\obj\Release\sub.csprojResolveAssemblyReference.cache
+C:\Users\e223377270\Desktop\sub\sub\bin\Release\log4net.config

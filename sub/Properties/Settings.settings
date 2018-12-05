@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="OmsnfManageMapping.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="topic" Type="System.String" Scope="User">
+      <Value Profile="(Default)">OmsnfOrs.ZfPub.MsgUserdata.ZfSub.OmsnfQueryserver|OmsManageMapping.ZfPub.MsgMapping.ZfSub.OmsManageSystem|OmsManageMapping.ZfPub.MsgInitMapping.ZfSub.OmsManageSystem|OmsManageSystem.ZfPub.MsgRequest.ZfSub.OmsManageMapping|OmsManageSystem.ZfPub.MsgMapping.ZfSub.OmsManageMapping</Value>
+    </Setting>
+    <Setting Name="ZooKeeperPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.168.2.10:2181</Value>
+    </Setting>
+    <Setting Name="topicPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/oms/dev/ver2.11/topics</Value>
+    </Setting>
+    <Setting Name="folderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\\Users\e223377270\\Desktop\\subUserData</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

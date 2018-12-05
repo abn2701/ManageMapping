@@ -1,0 +1,13 @@
+C:\Users\e223377270\Desktop\sub\sub\bin\Debug\sub.exe.config
+C:\Users\e223377270\Desktop\sub\sub\obj\Debug\sub.csprojResolveAssemblyReference.cache
+C:\Users\e223377270\Desktop\sub\sub\bin\Debug\sub.exe
+C:\Users\e223377270\Desktop\sub\sub\bin\Debug\sub.pdb
+C:\Users\e223377270\Desktop\sub\sub\bin\Debug\AsyncIO.dll
+C:\Users\e223377270\Desktop\sub\sub\bin\Debug\Google.Protobuf.dll
+C:\Users\e223377270\Desktop\sub\sub\bin\Debug\log4net.dll
+C:\Users\e223377270\Desktop\sub\sub\bin\Debug\NetMQ.dll
+C:\Users\e223377270\Desktop\sub\sub\bin\Debug\ZooKeeperNet.dll
+C:\Users\e223377270\Desktop\sub\sub\bin\Debug\Google.Protobuf.xml
+C:\Users\e223377270\Desktop\sub\sub\bin\Debug\log4net.xml
+C:\Users\e223377270\Desktop\sub\sub\obj\Debug\sub.exe
+C:\Users\e223377270\Desktop\sub\sub\obj\Debug\sub.pdb
